@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 
 ## Time Period of the Project.
-The dataset covers jobs and salary data from 2016 to 2018.
+The dataset covers Financial inclusion data from 2016 to 2018.
 ## About
 The Financial Inclusion in Africa project is a comprehensive exploration of the social economic landscape in various African counties in this case Kenya, Rwanda, Tanzania and Uganda, with a focus on understanding the dynamics of financial inclusion among diverse communities. Leveraging SQL queries and data analysis techniques, this project aims to shed light on the factors influencing access to financial services and the impact of such access on individuals and households.The dataset was obtained from https://www.kaggle.com/datasets/dhiebtarak/financial-inclusion-in-africa.
 
